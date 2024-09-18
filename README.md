@@ -1,6 +1,6 @@
 # socket using python
 
 
-Uploading opencv – server.py 2024-09-17 16-00-45_Trim.mp4…
+https://github.com/user-attachments/assets/6b891b51-d2d8-4de5-bc6a-5036be57b7af
 
 
